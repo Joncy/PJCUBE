@@ -1,0 +1,5 @@
+NORMAS DEL REPOSITORIO DE LECTURA Y CUMPLIMIENTO OBLIGATORIA
+1. Antes de trabajar en el proyecto, hacer git pull
+2. Antes de hacer un commit, comprobar que tu versión no tiene conflictos con la última añadida.
+
+Eso es todo, ánimo!
